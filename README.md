@@ -1,7 +1,6 @@
 # derma-detection
 Dermatologic Disease Detection Based on Visual and Medical Data
 
- son tarih ne zaman -> edip
  
 
 # Datasets to be used
