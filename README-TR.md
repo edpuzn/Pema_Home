@@ -31,14 +31,14 @@ Görsel ve Tıbbi Verilere Dayalı Dermatolojik Hastalık Tespiti
 
 
 <br><br>3. <b>Kullanılacak Veri Kümesi</b>
-> Data sets to be used for Dermatologic Images
+> Dermatolojik Görüntüler için kullanılacak veri setleri
 1. [Skin Cancer Malignant vs Benign Dataset](https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign)
 2. [Skin Diseases Image Dataset](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
 3. [Skin Disease Dataset](https://www.kaggle.com/datasets/pacificrm/skindiseasedataset/data)
 4. [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
 5. [ISIC (International Skin Imaging Collaboration) Archive](https://www.isic-archive.com/collections)
 
-> Data sets to be used for medical data
+> Tıbbi veriler için kullanılacak veri setleri
 1. [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 2. [Health Test By Blood Dataset](https://www.kaggle.com/datasets/simaanjali/diabetes-classification-dataset)
 3. [Disease Diagnosis Dataset](https://www.kaggle.com/datasets/s3programmer/disease-diagnosis-dataset)
