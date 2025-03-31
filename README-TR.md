@@ -40,7 +40,14 @@ Görsel ve Tıbbi Verilere Dayalı Dermatolojik Hastalık Tespiti
 
 > Data sets to be used for medical data
 1. [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-2. [Blood Transfusion Service Center](https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center)
+2. [Health Test By Blood Dataset](https://www.kaggle.com/datasets/simaanjali/diabetes-classification-dataset)
+3. [Disease Diagnosis Dataset](https://www.kaggle.com/datasets/s3programmer/disease-diagnosis-dataset)
+4. [Medical Information Mart for Intensive Care](https://mimic.mit.edu)
+5. [Complete Blood Count (CBC) Test](https://www.kaggle.com/datasets/ahmedelsayedtaha/complete-blood-count-cbc-test)
+
+> ⚠️ **Not:** KVKK ve HIPAA gibi veri gizliliği düzenlemeleri nedeniyle, ayrıntılı kan testi sonuçlarını ve diğer biyokimyasal değerleri içeren halka açık veri kümeleri sınırlıdır. Mevcut veri setleri genellikle tek bir hastalığa (örneğin diyabet) odaklanmıştır veya uygun etiketleme ve yeterli biyokimyasal derinlikten yoksundur.  
+>
+> Bu sınırlamanın üstesinden gelmek için, **Gemini** gibi bir büyük dil modeli (LLM) doğal dil yorumlama katmanı olarak sisteme entegre edilecektir. Bu bileşen, tıbbi veri modelinin tahminlerini insan dostu terimlerle açıklamaya yardımcı olacak ve tıbbi olarak bilgilendirilmiş akıl yürütme ve öneriler sunarak potansiyel veri boşluklarını telafi edecektir.
 
 ## <br><br>Örnek Kullanım Senaryosu
 1. Hasta, kolundaki bir yara görüntüsünü ve kan testine ait bir PDF belgesini yükler.

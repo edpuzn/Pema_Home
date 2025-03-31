@@ -39,7 +39,14 @@ Dermatologic Disease Detection Based on Visual and Medical Data
 
 > Data sets to be used for medical data
 1. [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-2. [Blood Transfusion Service Center](https://archive.ics.uci.edu/dataset/176/blood+transfusion+service+center)
+2. [Health Test By Blood Dataset](https://www.kaggle.com/datasets/simaanjali/diabetes-classification-dataset)
+3. [Disease Diagnosis Dataset](https://www.kaggle.com/datasets/s3programmer/disease-diagnosis-dataset)
+4. [Medical Information Mart for Intensive Care](https://mimic.mit.edu)
+5. [Complete Blood Count (CBC) Test](https://www.kaggle.com/datasets/ahmedelsayedtaha/complete-blood-count-cbc-test)
+
+> ⚠️ **Note:** Due to data privacy regulations such as KVKK and HIPAA, publicly available datasets that include detailed blood test results and other biochemical values are limited. Existing datasets are often focused on a single disease (e.g., diabetes) or lack proper labeling and sufficient biochemical depth.  
+>
+> To overcome this limitation, **a large language model (LLM) such as Gemini** will be integrated into the system as a natural language interpretation layer. This component will help explain the predictions of the medical data model in human-friendly terms and compensate for potential data gaps by offering medically-informed reasoning and suggestions.
 
 ## <br><br>Example Use Case
 1. The patient uploads an image of a wound on his/her arm and adds a PDF of a blood test.
