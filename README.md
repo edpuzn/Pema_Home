@@ -35,7 +35,12 @@ Dermatologic Disease Detection Based on Visual and Medical Data
 2. [Skin Diseases Image Dataset](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
 3. [Skin Disease Dataset](https://www.kaggle.com/datasets/pacificrm/skindiseasedataset/data)
 4. [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
-5. [ISIC (International Skin Imaging Collaboration) Archive](https://www.isic-archive.com/collections)
+5. [ISIC (International Skin Imaging Collaboration) Archive](https://api.isic-archive.com/collections/?pinned=true)
+
+> Data sets to be used for testing or in case of insufficient dermatological data 
+1. [Skin Disease Text Classification](https://www.kaggle.com/datasets/rafsunahmad/skin-disease-text-classification)
+2. [20 Skin Diseases Dataset](https://www.kaggle.com/datasets/haroonalam16/20-skin-diseases-dataset)
+3. [Skin Disease Classification Dataset](https://www.kaggle.com/datasets/trainingdatapro/skin-defects-acne-redness-and-bags-under-the-eyes)
 
 > Data sets to be used for medical data
 1. [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
